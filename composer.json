@@ -24,7 +24,7 @@
         },
         {
             "type": "vcs",
-            "url": "git@github.com:really-simple-systems/legacy-twig-view"
+            "url": "git@github.com:really-simple-systems/twig-view"
         }
     ],
     "require": {
